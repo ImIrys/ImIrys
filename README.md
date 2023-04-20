@@ -3,7 +3,13 @@
 
 ## 👩🏼‍💻 Sobre Mim: 
 - 👩🏼‍🎓 Graduanda de Análise e Desenvolvimento de Sistemas
-- 💻 Estudando HTML5, CSS3, JavaScripte React Js.
+- 💻 Estudando:
+
+   - HTML5
+   - CSS3
+   - JavaScript
+   - React
+   - Angular
 
 ##
 
