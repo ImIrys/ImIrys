@@ -5,11 +5,14 @@
 - 👩🏼‍🎓 Graduanda de Análise e Desenvolvimento de Sistemas
 - 💻 Estudando:
 
+   - Java
+   - Node.js
    - HTML5
    - CSS3
    - JavaScript
    - React
    - Angular
+
 
 ##
 
