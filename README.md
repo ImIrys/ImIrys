@@ -31,5 +31,5 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/souirysalbuquerque/)
 
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ImIrys/ImIrys/blob/output/github-contribution-grid-snake.svg)
 
