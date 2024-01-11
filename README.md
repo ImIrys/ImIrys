@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2000&pause=200&color=BF78F7&random=false&width=435&lines=Oi%C3%AA!;Meu+nome+%C3%A9+Irys+Lopes;Bem-vindo+(a)+ao+meu+Github!)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9933ff&height=120&section=header" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&weight=800&duration=2000&pause=500&color=953CBD&center=true&vCenter=true&width=1000&lines=Oi!;Meu+nome+%C3%A9+Irys+Lopes;Seja+bem+vindo+(a)+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 
 ## 👩🏼‍💻 Sobre Mim: 
@@ -6,6 +8,8 @@
 - 👩🏼‍🎓 Graduanda de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia da informação.
 - 🚀 Atualmente, estou mergulhando no mundo do back-end com Java, além de explorar HTML5, CSS3 e JavaScript.
 - 💡 Buscando oportunidades de aprendizado e crescimento profissional.
+
+<br>
 
 ## 💻 Estou aprendendo
 
@@ -19,10 +23,9 @@
 
 ##
 
-<div>
-	<a href="https://github.com/ImIrys">
-	<img  width="45%" heigth="180em" src="https://github-readme-stats.vercel.app/api?username=ImIrys&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br>
-	<img  width="45%" heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImIrys&layout=compact&langs_count=16&theme=tokyonight"/>
+<div align="center">
+<img width="49%" heigth="195px" src="https://github-readme-stats.vercel.app/api?username=ImIrys&show_icons=true&count_private=true&hide_border=true&title_color=8B008B&icon_color=8B008B&text_color=8A2BE2&bg_color=0d1117" alt="Irys Lopes github stats" />
+<img width="41%" heigth="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImIrys&layout=compact&hide_border=true&title_color=8B008B&text_color=8A2BE2&bg_color=0d1117&langs_count=16"/>
 </div>
 
 
@@ -31,5 +34,4 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/souirysalbuquerque/)
 
 
-![Snake animation](https://github.com/ImIrys/ImIrys/blob/output/github-contribution-grid-snake.svg)
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9933ff&height=120&section=footer" />
