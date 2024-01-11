@@ -2,24 +2,12 @@
 
 
 ## 👩🏼‍💻 Sobre Mim: 
-- 👩🏼‍🎓 Graduanda de Análise e Desenvolvimento de Sistemas
-- 💻 Estudando:
 
-   - Java
-   - Node.js
-   - HTML5
-   - CSS3
-   - JavaScript
-   - React
-   - Angular
+- 👩🏼‍🎓 Graduanda de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia da informação.
+- 🚀 Atualmente, estou mergulhando no mundo do back-end com Java, além de explorar HTML5, CSS3 e JavaScript.
+- 💡 Buscando oportunidades de aprendizado e crescimento profissional.
 
-##
-
-<div>
-	<a href="https://github.com/ImIrys">
-	<img  width="45%" heigth="180em" src="https://github-readme-stats.vercel.app/api?username=ImIrys&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br>
-	<img  width="45%" heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImIrys&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
+## 💻 Estou aprendendo
 
 <div style="display: inline_block"><br>
 	<img align="center" alt="Irys-JAVA" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -32,8 +20,16 @@
 ##
 
 <div>
-	<a href="https://www.linkedin.com/in/souirysalbuquerque/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-	<a href="mailto:irys.lda@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+	<a href="https://github.com/ImIrys">
+	<img  width="45%" heigth="180em" src="https://github-readme-stats.vercel.app/api?username=ImIrys&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br>
+	<img  width="45%" heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImIrys&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
-![Snake animation](https://github.com/ImIrys/ImIrys/blob/output/github-contribution-grid-snake.svg)
+
+## Entre em Contato
+📧 [E-mail](mailto:irys.lda@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/souirysalbuquerque/)
+
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
