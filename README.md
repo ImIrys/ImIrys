@@ -1,4 +1,4 @@
-## Oiê! Sou a Irys, bem-vindo (a) ao meu Github!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2000&pause=200&color=BF78F7&random=false&width=435&lines=Oi%C3%AA!;Meu+nome+%C3%A9+Irys+Lopes;Bem-vindo+(a)+ao+meu+Github!)](https://git.io/typing-svg)
 
 
 ## 👩🏼‍💻 Sobre Mim: 
